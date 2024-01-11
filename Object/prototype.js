@@ -9,4 +9,4 @@ function IdolModel(name, year) {
 }
 
 log(IdolModel.prototype);
-log(IdolModel)
+log(IdolModel);
